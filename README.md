@@ -1,5 +1,7 @@
 # Animated Template
 
+![Animated Template](assets/images/snapshot.PNG)
+
 ## Overview
 - Animated template using a [Creative Tim Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 
